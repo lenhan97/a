@@ -13,6 +13,12 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello");
             Console.WriteLine("Test");
             Console.WriteLine(1 + 5);
+            Console.WriteLine("Hello");
+            Console.WriteLine("Test");
+            Console.WriteLine(1 + 5);
+            Console.WriteLine("Hello");
+            Console.WriteLine("Test");
+            Console.WriteLine(1 + 5);
         }
     }
 }
