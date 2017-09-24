@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Test");
+            Console.Write("NA");
         }
     }
 }
