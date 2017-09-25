@@ -11,6 +11,7 @@ namespace Test11
         static void Main(string[] args)
         {
             Console.Write("ASD");
+            Console.Write("nhàn đây");
         }
     }
 }
