@@ -43,25 +43,18 @@ customerY / customer2
 Để cài đặt webapps ta cần thực hiện các bước sau:
 
 Bước 1: Clone Project về máy (nếu đã có file cài đặt, bỏ qua bước này)
-![Clone Project](/readme/clone_project.png?raw=true "Clone Project")
+![capture](https://user-images.githubusercontent.com/32255703/50264487-857c0080-044d-11e9-8ae3-ec5f2ec45291.PNG)
 
-Bước 2: Bỏ file nén vào thư mục htdocs của XAMPP. Giải nén file và đổi tên thư mục vừa giải nén thành ??
-Ví dụ: Giả sử bạn cài XAMPP ở ô C ta sẽ có đường dẫn của file sau bước này là:
-```
-C:\xampp\htdocs\TMDT_N01
-```
 
-Bước 3: Tạo 1 cơ sở dữ liệu mới trong database của SQL server với tên là webmobile
+Bước 2: Giải nén file tại thư mục vừa clone về.
+
+
+Bước 3: Attack database webmobile vào SQL server
+![capture1](https://user-images.githubusercontent.com/32255703/50264824-08ea2180-044f-11e9-9f66-76847910e66f.PNG)
+
 
 ```
 webmobile
 ```
 
-Bước 4: Import file dữ liệu mới nhất nằm trong thư mục database vào cơ sở dữ liệu vừa tạo.
-Ví dụ:
-
-```
-import file database/webmobile.sql vào CSDL webmobile
-```
-
-Bước 5: 
+### Hướng dẫn sử dụng
