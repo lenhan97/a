@@ -72,6 +72,7 @@ Bước 4: Đổi chuỗi ConnectString trong Visual Studio
 ### Hướng dẫn sử dụng 
 
 Vào project ThuongMaiDienTuAPI nhấn build để chạy chương trình
+
 Có thể chỉnh sửa dữ liệu trên SQL server hoặc lúc chạy chương trình trên web
 
 ![capture3](https://user-images.githubusercontent.com/32255703/50268775-a9940d80-045e-11e9-921e-6bbedc08c526.PNG)
