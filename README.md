@@ -42,7 +42,7 @@ customerY / customer2
 
 Để cài đặt webapps ta cần thực hiện các bước sau:
 
-Bước 1: Clone Project về máy (nếu đã có file cài đặt, bỏ qua bước này)
+Bước 1: Clone Project về máy tại link https://github.com/hanphuoclam/CamPhoneShop (nếu đã có file cài đặt, bỏ qua bước này)
 
 ![capture](https://user-images.githubusercontent.com/32255703/50264487-857c0080-044d-11e9-8ae3-ec5f2ec45291.PNG)
 
@@ -67,8 +67,10 @@ Bước 4: Đổi chuỗi ConnectString trong Visual Studio
 ![capture2](https://user-images.githubusercontent.com/32255703/50265667-2c16d000-0453-11e9-9507-8024f9c45328.PNG)
 
 
-### Hướng dẫn sử dụng
+### Hướng dẫn sử dụng - đối với 
 
 Vào project ThuongMaiDienTuAPI nhấn build để chạy chương trình, sau đó triển khai cách sử dụng phần mềm cho bộ phận IT hoặc bộ phận nhân sự của công ty sử dụng
+Có thể thêm sửa dữ liệu trên SQL server
+
 
 
