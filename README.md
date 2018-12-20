@@ -43,6 +43,7 @@ customerY / customer2
 Để cài đặt webapps ta cần thực hiện các bước sau:
 
 Bước 1: Clone Project về máy (nếu đã có file cài đặt, bỏ qua bước này)
+
 ![capture](https://user-images.githubusercontent.com/32255703/50264487-857c0080-044d-11e9-8ae3-ec5f2ec45291.PNG)
 
 
@@ -50,11 +51,22 @@ Bước 2: Giải nén file tại thư mục vừa clone về.
 
 
 Bước 3: Attack database webmobile vào SQL server
+
 ![capture1](https://user-images.githubusercontent.com/32255703/50264824-08ea2180-044f-11e9-9f66-76847910e66f.PNG)
 
 
 ```
 webmobile
 ```
+Bước 4: Đổi chuỗi ConnectString trong Visual Studio
+
+![48386722_271696613496816_6788967582591352832_n](https://user-images.githubusercontent.com/32255703/50265523-967b4080-0452-11e9-8a46-119462c11c9e.png)
+
+Đổi server name của máy
+
+![capture2](https://user-images.githubusercontent.com/32255703/50265667-2c16d000-0453-11e9-9507-8024f9c45328.PNG)
+
 
 ### Hướng dẫn sử dụng
+
+
