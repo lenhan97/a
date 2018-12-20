@@ -69,4 +69,6 @@ Bước 4: Đổi chuỗi ConnectString trong Visual Studio
 
 ### Hướng dẫn sử dụng
 
+Vào project ThuongMaiDienTuAPI nhấn build để chạy chương trình, sau đó triển khai cách sử dụng phần mềm cho bộ phận IT hoặc bộ phận nhân sự của công ty sử dụng
+
 
